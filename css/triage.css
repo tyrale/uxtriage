@@ -1,0 +1,20 @@
+img.logos {
+  width: 250px;
+  display: block;
+  margin-bottom: 15px;
+  }
+
+hr {
+    color: rgba(80, 82, 91, 0.31);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.bp-header__present {
+    text-transform: initial;
+    letter-spacing: 0.2em;
+}
+
+.bp-tooltip:after {
+    left: 3px;
+  }
